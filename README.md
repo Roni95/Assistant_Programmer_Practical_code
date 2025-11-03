@@ -30,5 +30,3 @@ Some of the key programming topics included:
 - Object-oriented programming (C++)
 
 ---
-
-## 📁 Repository Structure
